@@ -1,4 +1,4 @@
-## Rossmann case - Forecast Sales analysis (EM DESENVOLVIMENTO)
+## Elasticidade de preço (EM DESENVOLVIMENTO)
 
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
@@ -14,10 +14,10 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 - Importação de bibliotecas e carregamento dos dados
 - Limpeza, tratamento e preparação
-- Análise Exploratória
+- Cálculos elasticidade
+    - Remoção sazonalidade
     - Cálculo da Elasticidade Preço-Demanda
     - Análise de Elasticidade Cruzada
-    - Avaliação de Sazonalidade
     - Clusterização de Produtos
 - Visualização de Resultados
 - Conclusões 
