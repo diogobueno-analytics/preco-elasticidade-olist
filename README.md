@@ -5,7 +5,7 @@ Temos uma base de dados de histórico de vendas de diversas empresas que atuam p
 O Objetivo deste projeto é realizar uma análise de Elasticidade de preço-demanda, a fim de trazer recomendações para o time de negócio.
 
 ### Objetivo
-    Gerar recomendações relacionadas a elasticidade de preço.
+    Gerar recomendações baseando-se na análise da elasticidade dos preços.
 
 <img src="https://mercadoeconsumo.com.br/wp-content/uploads/2021/04/olist-divulgalcao.jpg" width="400"/>
 
