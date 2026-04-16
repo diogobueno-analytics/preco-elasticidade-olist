@@ -1,12 +1,11 @@
 ## Elasticidade de preço (EM DESENVOLVIMENTO)
 
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-
 ### Contexto de negócio
-
+Temos uma base de dados de histórico de vendas de diversas empresas que atuam pela Olist, que é um ecossistema de soluções para o varejo. https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+O Objetivo deste projeto é realizar uma análise de Elasticidade de preço-demanda, a fim de trazer recomendações para o time de negócio.
 
 ### Objetivo
-    1. Projetar 90 dias de vendas.
+    Gerar recomendações relacionadas a elasticidade de preço.
 
 <img src="https://mercadoeconsumo.com.br/wp-content/uploads/2021/04/olist-divulgalcao.jpg" width="400"/>
 
