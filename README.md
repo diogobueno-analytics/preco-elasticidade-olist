@@ -1,4 +1,4 @@
-## Elasticidade de preço
+## Elasticidade de preço - OLIST
 
 ### Contexto de negócio
 Temos uma base de dados de histórico de vendas de diversas empresas que atuam pela Olist, que é um ecossistema de soluções para o varejo. https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
