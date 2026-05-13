@@ -1,5 +1,5 @@
 ## Elasticidade de preço - OLIST
-
+Obs: Projeto pelo link acima "pricing_elasticity_analysis.ipynb"
 ### Contexto de negócio
 Temos uma base de dados de histórico de vendas de diversas empresas que atuam pela Olist, que é um ecossistema de soluções para o varejo. https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 O Objetivo deste projeto é realizar uma análise de Elasticidade de preço-demanda, a fim de trazer recomendações para o time de negócio.
